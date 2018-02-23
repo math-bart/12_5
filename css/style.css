@@ -1,0 +1,36 @@
+body {
+	background: #66CCFF;
+	color: #fff;
+	text-align: center;
+}
+
+button {
+	display: block;
+	width: 300px;
+	height: 40px;
+	color: #fff;
+	background: transparent;
+	cursor: pointer;
+	font-size: 20px;
+	margin: 30px auto;
+}
+
+button:hover {
+	color: #66CCFF;
+	background: #fff;
+	transition-duration: 0.3s;
+}
+
+a {
+	text-decoration: none;
+}
+
+h1 {
+	font-size: 46px;
+	margin-bottom: 140px;
+	letter-spacing: 8px;
+}
+
+.trigger {
+	margin-top: 120px;
+}
